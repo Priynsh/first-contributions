@@ -87,6 +87,7 @@
 - [Amit Narine](https://github.com/amitnarine)
 - [Ahmed Kaid](https://github.com/Ahmed-Kaid)
 - Belkacem Mezhoud
+- [priyansh@DevsocPI](https://github.com/Priynsh)
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Alex Zhao](https://github.com/zyunfeng)
 - [Gregory John](https://github.com/GregLJ)
