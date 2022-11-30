@@ -32,6 +32,7 @@
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
   [Boby Tiwari](https://github.com/Boby900)
 - [Rojon Ali](https://github.com/rojon009)
+- [shruti rout@devsoc](https://github.com/shrutirout)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [Hein Htet Zaw](https://github.com/Hendrickhz)
 - [s-t-e-v](https://github.com/s-t-e-v)
