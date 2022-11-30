@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
+- [priyansh@DevsocPI](https://github.com/Priynsh)
 - [Pawan Yadav](https://github.com/pawanyy)
 - [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
